@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AsyncSocketServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="xTradeConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=NONE-8933270085\SQLEXPRESS;Initial Catalog=xTrade;Persist Security Info=True;User ID=admin;Password=admin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=NONE-8933270085\SQLEXPRESS;Initial Catalog=xTrade;Persist Security Info=True;User ID=admin;Password=admin</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8000</Value>
+    </Setting>
+    <Setting Name="numConnections" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="receiveSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">51200</Value>
+    </Setting>
+    <Setting Name="PortManage" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">7800</Value>
+    </Setting>
+    <Setting Name="AdmName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="AdmPassHash" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">202cb962ac59075b964b07152d234b70</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

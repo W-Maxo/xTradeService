@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="xTradeService.Core.AsyncUserToken">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\AsyncUserToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.BProdClass">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAABAAAAQAgAAAEAAgAAAAAgAAAAA=</HashCode>
+      <FileName>Core\BProdClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.BufferManager">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQBAAAAAAAAAAAAAgAAABAAAAAgCAAAAgEA=</HashCode>
+      <FileName>Core\BufferManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.ClientsClass">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAgABAAAAAAAAAACQIAAAAAAAAA=</HashCode>
+      <FileName>Core\ClientsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.ClientsPointsClass">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAIAAAAAAA=</HashCode>
+      <FileName>Core\ClientsPointsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.GetDataMClass">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAIAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Core\GetDataMClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.GroupProdClass">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU=</HashCode>
+      <FileName>Core\GroupProdClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.ManageClass">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="xTradeService.Core.ManageClass.StartEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core\ManageClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAACAgCAAAgQACAAABEAAAAAAAFAEAAAABAAABAE=</HashCode>
+      <FileName>Core\ManageClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.Md5HashClass">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAA=</HashCode>
+      <FileName>Core\md5hashClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.PassClass">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="xTradeService.Core.PassClass.UssStr" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core\PassClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\PassClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.PublicGrouping&lt;TKey, TElement&gt;" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABQAgAAAAAAAAAAAAIAECAAAAAAAAAA=</HashCode>
+      <FileName>Core\PublicGrouping.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="xTradeService.Core.DataReq">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAAAIAABAAAAQIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ReqClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.ReqClass">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAQEBAAAAgAEIAEEAABAgIAAAAFRBAAgAAAAEAKAA=</HashCode>
+      <FileName>Core\ReqClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.ReqItem">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAABAAAAwAAAAAAAAAAAAAAgABAAA=</HashCode>
+      <FileName>Core\ReqItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.Server">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="xTradeService.Core.Server.ServerEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core\Server.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACACQAUAACBABABAAAAAAAKAZAACAgAAgCADCACRABA=</HashCode>
+      <FileName>Core\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.ServerEventArgs">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAgAAAAABAAAASAAAAAgAQA=</HashCode>
+      <FileName>Core\ServerEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.SocketAsyncEventArgsPool">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAACAAAAAAAABAAAACAA=</HashCode>
+      <FileName>Core\SocketAsyncEventArgPool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.SocketPacket">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAABAAAAA=</HashCode>
+      <FileName>Core\SocketPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.StartEventArgs">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\StartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Core.TpProdClass">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Core\TpProdClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Program" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.ProjectInstaller" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACABAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.ServerService">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAARAUACAAAACCAAAAAAAAEAEAAAAAAA=</HashCode>
+      <FileName>Service1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTradeService.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACIQAACABRAAAAAAEAAAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
